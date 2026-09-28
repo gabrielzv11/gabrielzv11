@@ -15,7 +15,7 @@ const desenvolvedor: Me = {
     nome: "Gabriel Azevedo",
     localização: "Brasil 🇧🇷",
     experiência: "5+ anos",
-    especialização: "Desenvolvimento Web Full Stack",
+    especialização: "Desenvolvimento front-end",
     hobbies: ["Origami", "Anime", "Criar repos e nunca terminar 😀"]
 };
 ```
